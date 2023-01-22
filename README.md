@@ -18,6 +18,8 @@ random variables
 # Partially-Observable Markov Processes Covers
 
 -  Introduction to Markov Chains (Sect. 4, Ross)
+-  n-step Transition Probabilities (Sect. 4.2, Ross)
+-  Classification of States (Sect. 4.3, Ross)
 -  Convergence and limiting probabilities, ergodicity (Sect. 4.4, Ross)
 
 # Monte_Carlo_Random_Processes Covers
